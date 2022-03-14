@@ -1,26 +1,22 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'gopikagkini@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/gopikakini',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://www.instagram.com/gopika.kini',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/gopika_kini_',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      url: 'https://www.linkedin.com/in/gopika-kini',
     },
   ],
 
@@ -44,9 +40,10 @@ module.exports = {
   ],
 
   colors: {
-    green: '#64ffda',
+    green: '#C2207F',
     navy: '#0a192f',
     darkNavy: '#020c1b',
+    powderBlue: '#EFF8F8',
   },
 
   srConfig: (delay = 200, viewFactor = 0.25) => ({

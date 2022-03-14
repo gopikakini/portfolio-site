@@ -53,7 +53,7 @@ const GlobalStyle = createGlobalStyle`
   /* Scrollbar Styles */
   html {
     scrollbar-width: thin;
-    scrollbar-color: var(--dark-slate) var(--navy);
+    scrollbar-color: var(--powderBlue) var(--navy);
   }
   body::-webkit-scrollbar {
     width: 12px;
@@ -74,7 +74,7 @@ const GlobalStyle = createGlobalStyle`
     overflow-x: hidden;
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
-    background-color: var(--navy);
+    background-color: var(--powderBlue);
     color: var(--slate);
     font-family: var(--font-sans);
     font-size: var(--fz-xl);
