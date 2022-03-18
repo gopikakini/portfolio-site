@@ -61,7 +61,7 @@ const StyledPic = styled.div`
     position: relative;
     width: 100%;
     border-radius: var(--border-radius);
-    background-color: var(--green);
+    background-color: var(--white);
 
     &:hover,
     &:focus {
@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['Python', 'Java', 'SQL', 'Dockers and Kubernetes'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,28 +136,24 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Gopika Kini and I enjoy working at the interesection of people and
-              technology. I work as a Software Designer with experience in building B2B products.
+              Hello! My name is Gopika Kini. I grew up in the quaint historical city of Mysore in
+              India. I'm an incoming graduate student at UC Berkeley Co'24. I will be pursuing my
+              Master's in Information and Management Systems, specializing in Product Management and
+              Data.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              Prior to this, and I’ve had the privilege of working at{' '}
+              <a href="https://www.microfocus.com/en-us/home">Micro Focus</a> as a Software
+              Designer. Over the course of wonderful three years at Micro Focus, I have closely
+              worked with architects and PMs to understand and contribute to the product development
+              lifecyle. Looking at the big picture at every stage of software development has made
+              me a better problem-solver and fueled my interests in the field.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              Going forward, I aspire to explore the interdisciplinary innovation that delves into
+              the nitty-gritty of technology and human interaction.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

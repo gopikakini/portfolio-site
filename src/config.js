@@ -11,10 +11,6 @@ module.exports = {
       url: 'https://www.instagram.com/gopika.kini',
     },
     {
-      name: 'Twitter',
-      url: 'https://twitter.com/gopika_kini_',
-    },
-    {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/gopika-kini',
     },
@@ -43,7 +39,7 @@ module.exports = {
     green: '#C2207F',
     navy: '#0a192f',
     darkNavy: '#020c1b',
-    powderBlue: '#EFF8F8',
+    powderBlue: '#E1EDED',
   },
 
   srConfig: (delay = 200, viewFactor = 0.25) => ({

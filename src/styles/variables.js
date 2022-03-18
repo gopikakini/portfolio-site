@@ -1,5 +1,5 @@
 import { css } from 'styled-components';
-
+//green : it is the neon shade
 const variables = css`
   :root {
     --dark-navy: #e1eded;
@@ -7,15 +7,17 @@ const variables = css`
     --light-navy: #112240;
     --lightest-navy: #233554;
     --navy-shadow: rgba(2, 12, 27, 0.7);
-    --dark-slate: #113137;
-    --slate: #2a464b;
-    --light-slate: #435a5e;
-    --lightest-slate: #66787b;
+    --dark-slate: #dddddd;
+    --slate: #626972;
+    --light-slate: #2e353e;
+    --lightest-slate: #052039;
     --white: #e6f1ff;
-    --green: #09c89b;
+    --green: #48d6c2;
     --green-tint: rgba(100, 255, 218, 0.1);
     --pink: #f57dff;
     --blue: #57cbff;
+    --greyWhite: #afb8c5;
+    --greWhiteDark: #8f9296;
 
     --font-sans: 'Calibre', 'Inter', 'San Francisco', 'SF Pro Text', -apple-system, system-ui,
       sans-serif;
