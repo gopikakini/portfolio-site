@@ -61,13 +61,11 @@ const Hero = () => {
   const zero = <h5> </h5>;
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Gopika Kini</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
   const four = (
     <>
       <p>
-        Hello! My name is Gopika Kini. I'm an incoming graduate student at UC Berkeley Co'24. I
-        enjoy working at the interesection of technology and business to solve interesting problems
-        while build meaningful relations.
+        I'm an incoming graduate student at UC Berkeley Co'24. I enjoy working at the interesection
+        of technology and business.
       </p>
     </>
   );
@@ -82,7 +80,7 @@ const Hero = () => {
     </a>
   );
 
-  const items = [zero, one, two, three, four, five];
+  const items = [zero, one, two, four, five];
 
   return (
     <StyledHeroSection>
