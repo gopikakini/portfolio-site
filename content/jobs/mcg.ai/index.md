@@ -7,7 +7,4 @@ range: 'June - July 2018'
 url: 'https://www.apple.com/music/'
 ---
 
-- Developed and shipped highly interactive web applications for Apple Music using Ember.js
-- Built and shipped the Apple Music Extension within Facebook Messenger leveraging third-party and internal APIs
-- Architected and implemented the front-end of Apple Music's embeddable web player widget, which lets users log in and listen to full songs in the browser
-- Contributed extensively to MusicKit.js, a JavaScript framework that allows developers to add an Apple Music player to their web apps
+- Worked on developing a proof-of-concept for a retail shopping assistant to browse and fetch data based on voice commands using Java and wit.ai

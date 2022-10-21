@@ -64,8 +64,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm an incoming graduate student at UC Berkeley Co'24. I enjoy working at the interesection
-        of technology and business.
+        I'm a graduate student at University of California, Berkeley. I enjoy working at the
+        interesection of Technology and Product Management.
       </p>
     </>
   );
@@ -74,8 +74,7 @@ const Hero = () => {
       className="email-link"
       href="https://www.linkedin.com/in/gopika-kini/"
       target="_blank"
-      rel="noreferrer"
-    >
+      rel="noreferrer">
       Let's connect!
     </a>
   );

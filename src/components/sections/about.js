@@ -130,9 +130,9 @@ const About = () => {
           <div>
             <p>
               Hello! My name is Gopika Kini. I grew up in the quaint historical city of Mysore in
-              India. I'm an incoming graduate student at UC Berkeley Co'24. I will be pursuing my
-              Master's in Information and Management Systems, specializing in Product Management and
-              Data.
+              India. I'm a graduate student at University of California, Berkeley, pursuing my
+              Master's in Information and Management Systems, specializing in Software Engineering
+              and Product Management.
             </p>
 
             <p>

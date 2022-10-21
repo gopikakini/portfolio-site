@@ -4,9 +4,9 @@ title: 'Software Designer II'
 company: 'Micro Focus'
 location: 'Bangalore, India'
 range: 'Aug 2019 - Present'
-url: 'https://www.upstatement.com/'
+url: 'https://www.microfocus.com/en-us/home'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Designed and developed REST APIs for performance troubleshooting dashboard; Implemented indexing solutions to reduce the response time by 30%, thereby improving customer experience.
+- Led a cross-functional collaboration, in a fast-paced agile TDD environment, with UI engineers, R&D Engineers, and Customer Support to drive product development;
+- Spearheaded cloud migration of 10+ legacy products to docker containers on cloud (Azure hosted Kubernetes cluster); prevented business loss of key customers moving to cloud-only solutions.
