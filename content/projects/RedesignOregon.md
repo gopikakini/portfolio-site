@@ -9,7 +9,6 @@ tech:
   - UX Research
 company: 'University of California, Berkeley '
 showInProjects: true
-ios: true
 ---
 
 Redesigning Oregon DMV Real ID Appointment scheduling
