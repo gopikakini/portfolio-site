@@ -2,7 +2,7 @@
 date: '2022-08-24'
 title: 'Oregon DMV redesign'
 github: ''
-external: ''
+external: 'https://gopika.notion.site/Oregon-DMV-Re-design-3b3594a439224ea097733a87b764187f'
 tech:
   - UX Design
   - Product Design
