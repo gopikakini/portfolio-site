@@ -158,7 +158,7 @@ const StyledProject = styled.li`
     padding: 25px;
     border-radius: var(--border-radius);
     background-color: var(--light-navy);
-    color: var(--greWhiteDark);
+    color: var(--white);
     font-size: var(--fz-lg);
 
     @media (max-width: 768px) {
@@ -292,7 +292,6 @@ const StyledProject = styled.li`
     .img {
       border-radius: var(--border-radius);
       mix-blend-mode: multiply;
-      filter: grayscale(100%) contrast(1) brightness(90%);
 
       @media (max-width: 768px) {
         object-fit: cover;
@@ -349,7 +348,7 @@ const Featured = () => {
   return (
     <section id="projects">
       <h2 className="numbered-heading" ref={revealTitle}>
-        Some Things I’ve Built
+        Some things Ive built
       </h2>
 
       <StyledProjectsGrid>
@@ -395,7 +394,7 @@ const Featured = () => {
                       )}
                       {external && !cta && (
                         <a href={external} aria-label="External Link" className="external">
-                          <Icon name="External" />
+                          Read more <Icon name="External" />
                         </a>
                       )}
                     </div>
